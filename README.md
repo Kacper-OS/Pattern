@@ -1,5 +1,7 @@
 # Pattern
-easy to use gui framework
+Easy to use gui framework<br>
+Current state: WIP
+
 #
 **Goals:**<br>
 1. GUI framework that can work on desktop, mobile and web
